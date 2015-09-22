@@ -12,4 +12,6 @@ jekyll serve
 gem install jekyll
 ```
 
-###Under Constructioin
+####Status
+- Under Construction
+- Initial Jekyll Theme
