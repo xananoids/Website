@@ -29,20 +29,6 @@
 16. Color Chooser
 
 ==========================================================================*/
-div#cnr {
-	display: none;
-}
- 
-div#loaderImage {
-	top: 200 px;
-	margin: auto;
-	position: absolute;
-	z-index: 1000;
-	width: 160px;
-	height: 24px;
-	background: url(images/xananoids-gears-animated.gif) no-repeat;
-	cursor: wait;
-}
 
 /*========================
 =======Typography=========
