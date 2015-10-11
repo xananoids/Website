@@ -502,7 +502,6 @@ a.navbar-brand {
 =============================*/
 #who-we-are {
 	margin-bottom:5px;
-	padding-top: 40px;
 }
 
 .who-we-are img {
@@ -651,6 +650,7 @@ a.navbar-brand {
 #event-carousel .carousel-indicators, 
 #recent-post-carousel .carousel-indicators, 
 #member-carousel .carousel-indicators, 
+#photo-gallery-carousel .carousel-indicators,
 #partner-carousel .carousel-indicators {
 	bottom: inherit;
 	right: -10px;
@@ -662,6 +662,7 @@ a.navbar-brand {
 #event-carousel .carousel-indicators li, 
 #recent-post-carousel .carousel-indicators li, 
 #member-carousel .carousel-indicators li, 
+#photo-gallery-carousel .carousel-indicators li,
 #partner-carousel .carousel-indicators li {
 	display:inline-block;
 	border-radius:0;
@@ -671,6 +672,7 @@ a.navbar-brand {
 #event-carousel .carousel-indicators li.active, 
 #recent-post-carousel .carousel-indicators li.active , 
 #member-carousel .carousel-indicators li.active, 
+#photo-gallery-carousel .carousel-indicators li.active,
 #partner-carousel .carousel-indicators li.active, 
 #humanity-carousel .carousel-indicators li.active {
 	margin:1px;
